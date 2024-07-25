@@ -24,8 +24,9 @@ GitHub Stats
 
 <a href="https://github.com/Code-A-187/convoychat">
 <img height="160" align="left" alt="Anton's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Code-A-187&amp;show_icons=true&amp;hide_border=false&amp;title_color=ff652f&amp;icon_color=FFE400&amp;bg_color=09131B&amp;text_color=ffffff&amp;border_color=0c1a25" style="max-width: 100%">
-
-   <img height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Code-A-187&amp;layout=compact&amp;bg_color=09131B&amp;hide_border=true" style="max-width: 100%"/>
+</a>
+<a href="https://github.com/Code-A-187/convoychat">
+<img height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Code-A-187&amp;layout=compact&amp;bg_color=09131B&amp;hide_border=true" style="max-width: 100%"/>
 </a>
 
 
