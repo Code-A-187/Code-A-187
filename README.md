@@ -1,12 +1,13 @@
-# Hello friend, I’m Anton 👋
+# Hi there, I’m Anton 👋
 
-## I'm learnig Python/JS
-- 🌱 I'm student at SoftUni academy
-- 💻 Currently looking for a new job as Full Stack Web Developer with Python/JS
+## I'm Python/JS enthusiast
+- 🌱 At present a student at SoftUni academy
+- 💻 Currently looking for a new opportunities as Full Stack Web Developer with Python/JS
 - ⚡ Fun fact: I love swimming and learning new skills
 
 ---
 ### Connect with me:
+
 <a href="https://www.linkedin.com/in/anton-s-78140328/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
 </a>
@@ -34,12 +35,9 @@
 
 GitHub Stats
 
-<a href="https://github.com/Code-A-187/github-readme-stats">
 <img height="160" align="left" alt="Anton's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Code-A-187&amp;show_icons=true&amp;hide_border=false&amp;title_color=ff652f&amp;icon_color=FFE400&amp;bg_color=09131B&amp;text_color=ffffff&amp;border_color=0c1a25" style="max-width: 100%">
-</a>
-<a href="https://github.com/Code-A-187/github-readme-stats">
+
 <img height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Code-A-187&amp;layout=compact&amp;bg_color=09131B&amp;hide_border=true" style="max-width: 100%"/>
-</a>
 
 
 
