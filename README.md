@@ -3,7 +3,7 @@
 ## I'm learnig Python/JS
 - 🌱 I'm student at SoftUni academy
 - 💻 Currently looking for a new job as Full Stack Web Developer with Python/JS
-- ⚡ Fun fact: I love swimming and learning ne skills
+- ⚡ Fun fact: I love swimming and learning new skills
 
 ---
 ### Connect with me:
