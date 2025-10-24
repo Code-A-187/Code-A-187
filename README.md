@@ -1,9 +1,9 @@
 # Hi there, I’m Anton 👋
 
-## I'm Python/JS enthusiast
-- 🌱 At present a student at SoftUni academy
-- 💻 Currently looking for a new opportunities as Full Stack Web Developer with Python/JS
-- ⚡ Fun fact: I love swimming and learning new skills
+## Python Backend Engineer
+- 🌱 Graduate as Python engineer at SoftUni
+- 💻 Currently looking for first tech job opportunity
+- ⚡ Fun fact: I love swimming and learn new skills
 
 ---
 ### Connect with me:
