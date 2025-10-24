@@ -1,8 +1,9 @@
 # Hi there, I’m Anton 👋
 
 ## Python Backend Engineer
-- 🌱 Graduate as Python engineer at SoftUni
+
 - 💻 Currently looking for first tech job opportunity
+- 🌱 Graduate as Python engineer at SoftUni
 - ⚡ Fun fact: I love swimming and learn new skills
 
 ---
